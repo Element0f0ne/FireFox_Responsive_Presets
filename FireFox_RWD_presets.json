@@ -1,0 +1,92 @@
+[{
+	"key": "320x240",
+	"name": "Nintendo 3DS (lower screen)",
+	"width": 320,
+	"height": 240
+}, {
+	"key": "360x640",
+	"width": 360,
+	"height": 640
+}, {
+	"key": "320x480",
+	"name": "iPhone 4 & 4S Viewable",
+	"width": 320,
+	"height": 480
+}, {
+	"key": "640x960",
+	"name": "iPhone 4 & 4S Native",
+	"width": 640,
+	"height": 960
+}, {
+	"key": "320x568",
+	"name": "iPhone 5 Viewable",
+	"width": 320,
+	"height": 568
+}, {
+	"key": "640x1136",
+	"name": "iPhone 5 Native",
+	"width": 640,
+	"height": 1136
+}, {
+	"key": "768x1024",
+	"name": "iPad Viewable, iPad Mini",
+	"width": 768,
+	"height": 1024
+}, {
+	"key": "800x1280",
+	"name": "16:10 Notebooks",
+	"width": 800,
+	"height": 1280
+}, {
+	"key": "980x1280",
+	"width": 980,
+	"height": 1280
+}, {
+	"key": "1280x600",
+	"width": 1280,
+	"height": 600
+}, {
+	"key": "1280x800",
+	"name": "Kindle Fire HD 7\"",
+	"width": 1280,
+	"height": 800
+}, {
+	"key": "1366x768",
+	"name": "16:9, MBA 11\", Surface",
+	"width": 1366,
+	"height": 768
+}, {
+	"key": "1440x900",
+	"name": "16:10, MBA 13\"",
+	"width": 1440,
+	"height": 900
+}, {
+	"key": "1920x900",
+	"width": 1920,
+	"height": 900
+}, {
+	"key": "1920x1080",
+	"name": "Full HD, Surface Pro, iMac 21.5\"",
+	"width": 1920,
+	"height": 1080
+}, {
+	"key": "1920x1200",
+	"name": "Kindle Fire HD 8.9\"",
+	"width": 1920,
+	"height": 1200
+}, {
+	"key": "2048x1536",
+	"name": "iPad Retina Native",
+	"width": 2048,
+	"height": 1536
+}, {
+	"key": "2560x1600",
+	"name": "MBP 13\" Retina, Nexus 10",
+	"width": 2560,
+	"height": 1600
+}, {
+	"key": "2880x1800",
+	"name": "MBP 15\" Retina",
+	"width": 2880,
+	"height": 1800
+}]
